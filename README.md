@@ -2,4 +2,4 @@
 
 # Tela do Formulário
 
-![image](https://github.com/GuilhermeRCoelho/CalcularMedia/assets/148068426/6de0cc37-42d3-443e-827a-3abe29794d2f)
+![image](https://github.com/GuilhermeRCoelho/CalcularMedia/assets/148068426/0b4ebc76-80b3-4f6d-af84-a62b7e99bd31)
